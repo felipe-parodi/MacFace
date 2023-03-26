@@ -1,4 +1,7 @@
 # MacFace: A Cross-Species Primate Dataset and Multi-Task Vision Transformer for Face Analysis
+
+*Project under development*
+
 The ability to detect and recognize non-human primates has crucial implications in fields such as wildlife conservation and behavioral research. In this project, we present MacFace, a novel cross-species primate dataset and a cutting-edge multi-task vision transformer for face detection, segmentation, and keypoint tracking.
 
 ![MacFace samples](docs/visual-aids/macface_readme_sample.png)
