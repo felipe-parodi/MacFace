@@ -17,7 +17,7 @@ src: This directory contains the source code for the project, including the mode
 tests: This directory contains scripts for testing the functionality and performance of the models.
 
 ### Model
-Our multi-task vision transformer is capable of jointly performing all four tasks, achieving competitive results on each individual task. We evaluate our model on MacFace and on two benchmark datasets, WIDERFace, FDDB, demonstrating its superior performance and generalizability when pre-trained on the MacFace dataset. In addition, we conduct a comprehensive ablation study to analyze the impact of different image sets, such as different species or synthetically generated images.
+Our multi-task vision transformer is capable of jointly performing all three tasks, achieving competitive results on each individual task. We evaluate our model on MacFace and on two benchmark datasets, WIDERFace, FDDB, demonstrating its superior performance and generalizability when pre-trained on the MacFace dataset. In addition, we conduct a comprehensive ablation study to analyze the impact of different image sets, such as different species or synthetically generated images.
 
 ### Dataset
 To promote further research in the field of primate face analysis, we open-source both our dataset and model. By providing a comprehensive benchmark dataset, as well as a powerful multi-task vision transformer, this work will facilitate the advancement of research in primate face analysis and improve our understanding and conservation of these vital species.
