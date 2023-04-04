@@ -42,7 +42,7 @@ def main():
     os.makedirs(out_dir + "/viz", exist_ok=True)
     os.makedirs(out_dir + "/annotations", exist_ok=True)
 
-    out_json_file = os.path.join(out_dir, os.path.basename(out_dir) + "_pseudo.json")
+    out_json_file = out_dir + "/annotations/instances_labels_f68.json"
     print(out_json_file)
 
     det_config = (
