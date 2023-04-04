@@ -58,23 +58,6 @@ def main():
                       mobilenetv2_coco_wholebody_face_256x256-4a3f096e_20210909.pth"
     pose_model = init_pose_model(pose_config, pose_checkpoint, device=device)
 
-    info = {
-        "year": "2022",
-        "version": "5",
-        "description": "Exported from roboflow.ai",
-        "contributor": "",
-        "url": "https://public.roboflow.ai/object-detection/undefined",
-        "date_created": "2022-12-13T11:11:23+00:00",
-    }
-
-    licenses = [
-        {
-            "id": 1,
-            "url": "https://creativecommons.org/licenses/by/4.0/",
-            "name": "CC BY 4.0",
-        }
-    ]
-
     categories = [
         {
             "id": 1,
@@ -219,8 +202,6 @@ def main():
     ]
 
     img_anno_dict = {
-        "info": info,
-        "licenses": licenses,
         "categories": categories,
         "images": [],
         "annotations": [],
