@@ -1,4 +1,4 @@
-# Bridging the gap in primate face analysis: Novel Cross-Species Dataset and Models for Facial Detection and Tracking
+# PrimateFace: Novel Cross-Species Dataset and Models for Face Detection and Landmark Tracking
 
 *Project under development*
 
