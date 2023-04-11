@@ -4,7 +4,7 @@
 
 *MacFace == PrimateFace*
 
-Understanding primate social communication and affective states requires accurate and efficient detection and tracking of facial landmarks, which present unique challenges in non-human primates. Here, we introduce PrimateFace, an unprecedented cross-species primate dataset containing over 230,000 images, with extensive diversity and challenging natural settings.
+Understanding primate social communication and affective states requires precise detection and tracking of facial landmarks, which present unique challenges in non-human primates. Here, we introduce PrimateFace, an unprecedented cross-species primate dataset containing over 230,000 images, with extensive diversity and challenging natural settings.
 
 ![MacFace samples](docs/visual-aids/macface_readme_sample.png)
 
