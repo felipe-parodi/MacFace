@@ -4,7 +4,7 @@ PrimateFace is notable as the first large-scale cross-primate species face datas
 
 Here's a non-inclusive snapshot of related work:
 
-![Related Work](primateface_table1.jpg)
+<!-- ![Related Work](primateface_table1.jpg) -->
 
 | Task                          | Source            | Species or Family             | Dataset          | Image Count | Model available? |
 |-------------------------------|-------------------|-------------------------------|------------------|-------------|------------------|
