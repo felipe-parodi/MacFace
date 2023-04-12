@@ -9,3 +9,6 @@ Here's a non-inclusive snapshot of related work:
 On the other hand, there has been a TON of work towards quantifying natural primate behavior. Here are some relevant datasets and models addressing this goal:
 
 ![Related Work](primateface_table2.jpg)
+
+
+todo: add the table here and add all appropriate links
