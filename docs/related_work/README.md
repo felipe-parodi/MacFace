@@ -4,8 +4,8 @@ PrimateFace is notable as the first large-scale cross-primate species face datas
 
 Here's a non-inclusive snapshot of related work:
 
-![Related Work](MacFace/docs/related_work/primateface_table1.png)
+![Related Work](primateface_table1.png)
 
 On the other hand, there has been a TON of work towards quantifying natural primate behavior. Here are some relevant datasets and models addressing this goal:
 
-![Related Work](MacFace/docs/related_work/primateface_table2.png)
+![Related Work](primateface_table2.png)
