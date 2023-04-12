@@ -4,7 +4,6 @@ PrimateFace is notable as the first large-scale cross-primate species face datas
 
 Here's a non-inclusive snapshot of related work:
 
-<!-- ![Related Work](primateface_table1.jpg) -->
 
 | Task                          | Source            | Species or Family             | Dataset          | Image Count | Model available? |
 |-------------------------------|-------------------|-------------------------------|------------------|-------------|------------------|
@@ -20,7 +19,14 @@ Here's a non-inclusive snapshot of related work:
 
 On the other hand, there has been a TON of work towards quantifying natural primate behavior. Here are some relevant datasets and models addressing this goal:
 
-![Related Work](primateface_table2.jpg)
+| Task                        | Source          | Species or Family | Dataset               | Image Count            | Model available?   |
+|-----------------------------|-----------------|-------------------|-----------------------|------------------------|--------------------|
+| Animal Pose Estimation      | Yu et al., 2021 | Cross-species     | AP10k                 | 10,015 (675 primates)  | Yes (mmpose)       |
+| NHP Body Pose Estimation    | Bala et al., 2020| Macaque           | OpenMonkeyStudio      | 195,228                | Yes                |
+| NHP Body Pose Estimation    | Labuguen et al., 2021 | Macaque       | Not available         | Not available          | Yes (DeepLabCut)  |
+| NHP Body Pose Estimation    | Yao et al., 2022 | Monkey            | OpenMonkeyChallenge   | 111,529                | No                 |
+| NHP Body Pose Estimation    | Desai et al., 2022 | Apes            | OpenApePose           | 71,868                 | Yes                |
+| Body Pose + Identity + Behavior | Marks et al., 2022 | Primate, mouse | Available upon request | Available upon request | Yes            |
+| Face Detection + Keypoints  | Ours            | All primates      | PrimateFace           | 300k                   | Yes (mmdetection, mmpose) |
 
 
-todo: add the table here and add all appropriate links
