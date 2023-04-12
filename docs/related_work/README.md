@@ -1,3 +1,11 @@
 # PrimateFace: Bridging the gap in primate face analysis
 
-2 new tables!
+PrimateFace is notable as the first large-scale cross-primate species face dataset.
+
+Here's a non-inclusive snapshot of related work:
+
+![Related Work](docs/related_work/primateface_table1.png)
+
+On the other hand, there has been a TON of work towards quantifying natural primate behavior. Here are some relevant datasets and models addressing this goal:
+
+![Related Work](docs/related_work/primateface_table2.png)
