@@ -15,7 +15,7 @@ Here's a non-inclusive snapshot of related work:
 | Face Detection + Keypoints (68)| Jin et al., 2020  | Human                        | COCO (WholeBody) | 200,000     | Yes (mmpose)     |
 | Face Detection + Keypoints (9) | Khan et al., 2020 | 334 species                  | AnimalWeb        | 21,921      | No               |
 | Face Keypoints (5)            | Freytag et al., 2016 | Chimp                       | C-Zoo + C-Tai    | 6,486       | No               |
-| Face Detection + Keypoints    | Ours              | All primates                 | PrimateFace      | 300,000     | Yes (mmdetection, mmpose) |
+| Face Detection + Keypoints (68)   | Ours              | All primates                 | PrimateFace      | 300,000     | Yes (mmdetection, mmpose) |
 
 On the other hand, there has been a TON of work towards quantifying natural primate behavior. Here are some relevant datasets and models addressing this goal:
 
@@ -27,6 +27,6 @@ On the other hand, there has been a TON of work towards quantifying natural prim
 | NHP Body Pose Estimation    | Yao et al., 2022 | Monkey            | OpenMonkeyChallenge   | 111,529                | No                 |
 | NHP Body Pose Estimation    | Desai et al., 2022 | Apes            | OpenApePose           | 71,868                 | Yes                |
 | Body Pose + Identity + Behavior | Marks et al., 2022 | Primate, mouse | Available upon request | Available upon request | Yes            |
-| Face Detection + Keypoints  | Ours            | All primates      | PrimateFace           | 300k                   | Yes (mmdetection, mmpose) |
+| Face Detection + Keypoints (68)  | Ours            | All primates      | PrimateFace           | 300k                   | Yes (mmdetection, mmpose) |
 
 
