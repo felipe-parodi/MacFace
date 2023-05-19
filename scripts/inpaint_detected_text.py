@@ -36,7 +36,7 @@ def main():
     os.makedirs(text_inpainted_dir, exist_ok=True)
 
     # Initialize the MMOCRInferencer
-    infer = MMOCRInferencer(det="dbnetpp", rec="svtr-small")
+    infer = MMOCRInferencer(det="dbnetpp", rec="svtr-small", device='cuda:0')
 
     # Iterate over all images in the input directory
     image_files = os.listdir(input_dir)
