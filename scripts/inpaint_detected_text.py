@@ -50,13 +50,14 @@ def main():
             polygons = result["predictions"][0]["det_polygons"]
 
             if polygons:  # If text is detected
-                # Move image with detected text to text_detected_dir
-                shutil.move(img_path, os.path.join(text_detected_dir, filename))
 
                 # Load the image
                 img = cv2.imread(img_path)
                 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
+                # Move image with detected text to text_detected_dir
+                shutil.move(img_path, os.path.join(text_detected_dir, filename))
+                
                 # Create a mask for the detected text areas
                 mask = np.zeros(img.shape[:2], dtype=np.uint8)
                 for polygon in polygons:
