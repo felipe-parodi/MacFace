@@ -6,7 +6,8 @@
 
 Understanding primate social communication and affective states requires precise detection and tracking of facial landmarks, which present unique challenges in non-human primates. Here, we introduce PrimateFace, an unprecedented cross-species primate dataset containing over 230,000 images, with extensive diversity and challenging natural settings.
 
-![MacFace samples](docs/visual-aids/macface_readme_sample.png)
+<!-- ![MacFace samples](docs/visual-aids/macface_readme_sample.png) -->
+![MacFace samples](docs/visual-aids/primateface_figure2_datasettransposed.png)
 
 ### Directories
 data: This directory contains the PrimateFace dataset, which includes over 250,000 images of myriad primate species, providing a challenging benchmark for primate face analysis. It also includes any relevant data files used in the project.
