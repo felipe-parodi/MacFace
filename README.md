@@ -1,7 +1,7 @@
 # PrimateFace: A deep learning-based system for primate facial analysis
 
 <div align="center">
-### **![Paper]() | ![Project Page]() | ![HuggingFace Demo]()**
+<strong><a href="URL_FOR_PAPER">Paper</a></strong> | <strong><a href="URL_FOR_PROJECT_PAGE">Project Page</a></strong> | <strong><a href="URL_FOR_HUGGINGFACE_DEMO">HuggingFace Demo</a></strong>
 </div>
 
 *Project under development*
