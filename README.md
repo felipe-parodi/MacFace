@@ -1,4 +1,6 @@
-# PrimateFace: Novel Cross-Species Dataset and Models for Face Detection and Landmark Tracking
+# PrimateFace: A deep learning-based system for primate facial analysis
+
+**![Paper]() | ![Project Page]() | ![HuggingFace Demo]()**
 
 *Project under development*
 
